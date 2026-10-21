@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleName</key>
+	<string>MacTV</string>
+	<key>NSAppleEventsUsageDescription</key>
+	<string>MacTV pauses Spotify, Music and VLC when you start a local video, so their audio does not overlap.</string>
+	<key>NSBonjourServices</key>
+	<array>
+		<string>_mactv._tcp</string>
+	</array>
+	<key>NSDownloadsFolderUsageDescription</key>
+	<string>MacTV reads your Downloads/Movies folder to show and play your local videos.</string>
+	<key>NSLocalNetworkUsageDescription</key>
+	<string>MacTV connects to your paired Android remote over your local network.</string>
+</dict>
+</plist>

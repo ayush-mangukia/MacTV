@@ -1,0 +1,23 @@
+.DS_Store
+**/.gradle/
+**/.kotlin/
+**/build/
+**/DerivedData/
+**/local.properties
+**/xcuserdata/
+**/.idea/
+
+# Distribution outputs and private signing material
+/dist/
+*.jks
+*.keystore
+*.p12
+*.pfx
+*.mobileprovision
+.env
+.env.*
+!*.example
+*.pem
+key.properties
+keystore.properties
+signing-password

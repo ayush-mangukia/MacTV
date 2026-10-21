@@ -1,0 +1,46 @@
+{
+  "events": [
+    {
+      "id": "401884759",
+      "date": "2026-10-25T16:30Z",
+      "competitions": [
+        {
+          "timeValid": true,
+          "status": {
+            "clock": 0.0,
+            "addedClock": 0.0,
+            "displayClock": "0'",
+            "period": 0,
+            "type": {
+              "id": "1",
+              "name": "STATUS_SCHEDULED",
+              "state": "pre",
+              "completed": false,
+              "description": "Scheduled",
+              "detail": "Sun, October 25th at 12:30 PM EDT",
+              "shortDetail": "10/25 - 12:30 PM EDT"
+            }
+          },
+          "competitors": [
+            {
+              "homeAway": "home",
+              "team": {
+                "id": "126",
+                "displayName": "SC Freiburg"
+              },
+              "score": null
+            },
+            {
+              "homeAway": "away",
+              "team": {
+                "id": "132",
+                "displayName": "Bayern Munich"
+              },
+              "score": null
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
